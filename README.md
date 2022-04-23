@@ -15,11 +15,11 @@
 
 ## ☎️ Contatos
 
-<a href="https://github.com/LanaIhara" style="display: inline_block"><img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/></a> LanaIhara
+<a href="https://github.com/LanaIhara" style="display: inline_block"><img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> LanaIhara
 
-<img align="center" alt="ícone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/> akemiihara1234@gmail.com
+<img align="center" alt="ícone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> akemiihara1234@gmail.com
 
-<img align="center" alt="ícone discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20"/> #Nano8350
+<img align="center" alt="ícone discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> #Nano8350
 
 <br>
 
