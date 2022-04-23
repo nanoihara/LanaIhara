@@ -7,15 +7,17 @@
 
 <br>
 
-![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&theme=radical)
+![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=radical&card_width=450)
 
-[![Lana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact)](https://github.com/LanaIhara/github-readme-stats)
+![Lana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&card_width=450)
 
 <br>
 
 ## ☎️ Contatos
 
-<a href="https://github.com/LanaIhara" style="display: inline_block"><img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> LanaIhara
+<a href="https://github.com/LanaIhara" style="display: inline_block">
+    <img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a> LanaIhara
 
 <img align="center" alt="ícone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> akemiihara1234@gmail.com
 
