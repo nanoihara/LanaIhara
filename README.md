@@ -50,19 +50,19 @@
     <a href="https://www.w3schools.com/html/"> <!-- HTML -->
         <img align="center" alt="ícone html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     </a> 
-    <a href=""> <!-- CSS -->
+    <a href="https://www.w3schools.com/css/"> <!-- CSS -->
         <img align="center" alt="ícone css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
     </a>
-    <a href=""> <!-- JAVA --> 
+    <a href="https://www.w3schools.com/java/"> <!-- JAVA --> 
         <img align="center" alt="ícone java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
     </a>
-    <a href=""> <!-- PHP --> 
+    <a href="https://www.w3schools.com/php/"> <!-- PHP --> 
         <img align="center" alt="ícone php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
     </a>
-    <a href=""> <!-- C++ -->
+    <a href="https://www.w3schools.com/CPP/default.asp"> <!-- C++ -->
         <img align="center" alt="ícone c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
     </a>
-    <a href=""> <!-- MYSQL -->
+    <a href="https://www.w3schools.com/mysql/"> <!-- MYSQL -->
         <img align="center" alt="ícone mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
     </a>
 </div> <br>
