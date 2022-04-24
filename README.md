@@ -7,15 +7,16 @@
 
 <br>
 
-![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=radical&card_width=450)
-
-![Lana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&card_width=450)
-
-<div>
-    <img align="center" alt="Cobrinha do commit" src="https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg"/> 
+<div align="center">
+    <img alt="stats Lana" height="180cm" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=radical"/>
+    <img alt="top languages" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&"/>
 </div>
 
-<br style="display: inline-block">
+<div align="center">
+    <img alt="Cobrinha do commit" src="https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg"/> 
+</div>
+
+<br>
 
 ## ☎️ Contatos
 
