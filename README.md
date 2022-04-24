@@ -11,13 +11,15 @@
 
 ![Lana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&card_width=450)
 
-![Snake animation - rafaballerini](https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg)
+<div id="cobrinha">
+    <img align="center" alt="Cobrinha do commit" src="https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 <br>
 
 ## ☎️ Contatos
 
-<div style="display: inline_block">
+<div style="display: inline-block">
     <a href="https://github.com/LanaIhara"><img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="mailto:akemiihara1234@gmail.com"><img align="center" alt="ícone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <img align="center" alt="ícone discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> #Nano8350
@@ -27,7 +29,7 @@
 
 ## 💻 Tecnologias que uso no meu dia a dia
 
-<div style="display: inline_block">
+<div style="display: inline-block">
     <img align="center" alt="ícone html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="ícone css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="ícone java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -38,10 +40,16 @@
 
 ## ✨ Feito com
 <!-- Lista por definição-->
-<dl style="display: inline_block">
+<dl style="display: inline-block">
     <dt><a href="https://youtu.be/cRoBt6AZgjc">🌐 Como personalizar o seu perfil no Github, de Sujeito Programador</a></dt>
     <dt><a href="https://emojipedia.org/">🌐 Emojipedia</a></dt>
     <dt><a href="https://dev.to/envoy_/150-badges-for-github-pnk">🌐 150+ Badges for GitHub, por Vedant Chainani</a></dt>
     <dt><a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">🌐 github read me stats, por anuraghazra</a></dt>
     <dt><a href="https://sernaiotto.com/emojis-carinhas-para-copiar/">🌐 Emojis e carinhas para copiar, por Loma Sernaiotto</a></dt>
 </dl>
+
+#cobrinha {
+    border-width: medium;
+    border-style: solid;
+    border-color: #00f;
+}
