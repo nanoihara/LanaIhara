@@ -11,15 +11,17 @@
 
 ![Lana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&card_width=450)
 
+![Snake animation - rafaballerini](https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 ## ☎️ Contatos
 
-<a href="https://github.com/LanaIhara" style="display: inline_block"><img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> LanaIhara
-
-<img align="center" alt="ícone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> akemiihara1234@gmail.com
-
-<img align="center" alt="ícone discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> #Nano8350
+<div style="display: inline_block">
+    <a href="https://github.com/LanaIhara"><img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="mailto:akemiihara1234@gmail.com"><img align="center" alt="ícone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <img align="center" alt="ícone discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> #Nano8350
+</div>
 
 <br>
 
