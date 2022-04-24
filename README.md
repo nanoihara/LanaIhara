@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-    <img alt="stats Lana" height="180cm" width="500" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=radical"/>
+    <img alt="stats Lana" height="180cm" width="300" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=radical"/>
     <img alt="top languages" height="180cm" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&"/>
 </div>
 
