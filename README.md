@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css" />
+
 ### Oe, Nano falando (＾∇＾)ノ
 - 🔭 Tenho o desejo de trabalhar na área de programação!
 - 🌱 Atualmente estou aprendendo PHP
