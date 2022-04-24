@@ -47,9 +47,3 @@
     <dt><a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">🌐 github read me stats, por anuraghazra</a></dt>
     <dt><a href="https://sernaiotto.com/emojis-carinhas-para-copiar/">🌐 Emojis e carinhas para copiar, por Loma Sernaiotto</a></dt>
 </dl>
-
-#cobrinha {
-    border-width: medium;
-    border-style: solid;
-    border-color: #00f;
-}
