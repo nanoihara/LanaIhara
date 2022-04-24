@@ -11,11 +11,11 @@
 
 ![Lana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&card_width=450)
 
-<div style="border-style: solid; border-color: red; border-radius: 20px;">
-    <img align="center" alt="Cobrinha do commit" src="https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg"/>
+<div>
+    <img align="center" alt="Cobrinha do commit" src="https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg"/> 
 </div>
 
-<br>
+<br style="display: inline-block">
 
 ## ☎️ Contatos
 
