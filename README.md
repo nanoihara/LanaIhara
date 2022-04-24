@@ -8,8 +8,8 @@
 <br>
 
 <div align="center">
-    <img alt="stats Lana" height="200cm" width="400" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=radical"/>
-    <img alt="top languages" height="200cm" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&"/>
+    <img alt="stats Lana" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=radical"/>
+    <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true"/>
 </div>
 
 <div align="center">
