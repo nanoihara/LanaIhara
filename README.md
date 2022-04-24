@@ -19,8 +19,8 @@
     <!-- <a href=""></a> consegue tornar o conteúdo dentro dele clicável, podendo redirecionar o visitante a um outro link ou uma outra página do próprio site, como é o caso do HTML nas páginas de internet -->
         <img alt="stats Lana" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=yeblu"/> <!-- STATUS DO GITHUB --> <!-- img é o código HTML para inserir imagem; alt="" significa que, caso não apareça a imagem, por algum erro ou qualquer motivo, mostrará o texto indicado no alt="" -->
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=moltack">
-        <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=moltack"/> <!-- LINGUAGENS MAIS USADAS PELO USUÁRIO -->
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light">
+        <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light"/> <!-- LINGUAGENS MAIS USADAS PELO USUÁRIO -->
     </a>
 </div>
 
