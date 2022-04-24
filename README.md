@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css" />
-
 ### Oe, Nano falando (＾∇＾)ノ
 - 🔭 Tenho o desejo de trabalhar na área de programação!
 - 🌱 Atualmente estou aprendendo PHP
@@ -13,7 +11,7 @@
 
 ![Lana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&card_width=450)
 
-<div id="cobrinha">
+<div style="border-style: solid; border-color: red; border-radius: 20px;">
     <img align="center" alt="Cobrinha do commit" src="https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
