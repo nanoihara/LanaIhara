@@ -79,8 +79,8 @@
     <a href="https://github.com/LanaIhara/PRW"> <!-- PRW -->
         <img align="center" alt="repositório PRW" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=LanaIhara&repo=PRW&theme=yeblu"/>
     </a>
-    <a href="https://github.com/LanaIhara/PRW"> <!-- PRW -->
-        <img align="center" alt="repositório PRW" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=LanaIhara&repo=PRW&theme=yeblu"/>
+    <a href="https://github.com/LanaIhara/projeto-1ano"> <!-- Projeto do 1º ano -->
+        <img align="center" alt="repositório projeto-1ano" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=LanaIhara&repo=projeto-1ano&theme=yeblu"/>
     </a>
 </div> <br>
 
