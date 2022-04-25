@@ -15,9 +15,9 @@
 <br> <!-- quebra de linha -->
 
 <div align="center"> <!-- <div></div> é um container no qual é usado para agrupar elementos juntos para aplicar o CSS ou, nesse caso, para deixar dois elementos lado a lado -->
-    <a href="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=yeblu">
+    <a href="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=maroongold">
     <!-- <a href=""></a> consegue tornar o conteúdo dentro dele clicável, podendo redirecionar o visitante a um outro link ou uma outra página do próprio site, como é o caso do HTML nas páginas de internet -->
-        <img alt="stats Lana" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=yeblu"/> <!-- STATUS DO GITHUB --> <!-- img é o código HTML para inserir imagem; alt="" significa que, caso não apareça a imagem, por algum erro ou qualquer motivo, mostrará o texto indicado no alt="" -->
+        <img alt="stats Lana" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=maroongold"/> <!-- STATUS DO GITHUB --> <!-- img é o código HTML para inserir imagem; alt="" significa que, caso não apareça a imagem, por algum erro ou qualquer motivo, mostrará o texto indicado no alt="" -->
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light">
         <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light"/> <!-- LINGUAGENS MAIS USADAS PELO USUÁRIO -->
@@ -86,6 +86,6 @@
         <a href="https://dev.to/envoy_/150-badges-for-github-pnk">🌐 150+ Badges for GitHub, por Vedant Chainani</a>
     </dt>
     <dt> <!-- Site de como inserir e editar alguns parâmetros dos Status do GitHub e das Linguagens mais utilizadas-->
-        <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">🌐 github read me stats, por anuraghazra</a>
+        <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">🌐 github read me stats, por Anurag Hazra</a>
     </dt>
 </dl>
