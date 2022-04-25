@@ -72,6 +72,18 @@
     </a>
 </div> <br>
 
+<!-- PRINCIPAIS REPOSITÓRIOS -->
+## Principais repositórios
+<!-- Card de repositório decorada -->
+<div>
+    <a href="https://github.com/LanaIhara/PRW"> <!-- PRW -->
+        <img align="center" alt="repositório PRW" src="https://github-readme-stats.vercel.app/api/pin/?username=LanaIhara&repo=PRW&theme=yeblu"/>
+    </a>
+    <a href="https://github.com/LanaIhara/PRW"> <!-- PRW -->
+        <img align="center" alt="repositório PRW" src="https://github-readme-stats.vercel.app/api/pin/?username=LanaIhara&repo=PRW&theme=yeblu"/>
+    </a>
+</div> <br>
+
 <!-- REFERÊNCIAS DOS SITES/VÍDEOS -->
 ## ✨ Feito com
 <!-- Lista por definição em HTML -->
