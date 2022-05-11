@@ -41,9 +41,9 @@
     <a href="mailto:akemiihara1234@gmail.com"> <!-- ÍCONE GMAIL-->
         <img align="center" alt="ícone gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a> 
-    <a href="https://discord.com/"> <!-- ÍCONE DISCORD -->
-        <img align="center" alt="ícone discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> Nano#8350
-    </a> 
+    <!-- <a href="https://discord.com/"> --> <!-- ÍCONE DISCORD -->
+        <!-- <img align="center" alt="ícone discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> Nano#8350
+    </a> -->
 </div>
 
 <br>
