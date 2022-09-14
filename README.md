@@ -1,5 +1,5 @@
 <!-- Código feito por Lana Ihara (aka Nano) -->
-<!-- GitHub: https://github.com/LanaIhara -->
+<!-- GitHub: https://github.com/nanoihara -->
 
 <!-- Contêm códigos em Markdown (por isto, o arquivo é .md) e HTML -->
 
@@ -15,18 +15,18 @@
 <br> <!-- quebra de linha -->
 
 <div align="center"> <!-- <div></div> é um container no qual é usado para agrupar elementos juntos para aplicar o CSS ou, nesse caso, para deixar dois elementos lado a lado -->
-    <a href="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=maroongold">
+    <a href="https://github-readme-stats.vercel.app/api?username=nanoihara&show_icons=true&count_private=true&locale=pt-BR&theme=maroongold">
     <!-- <a href=""></a> consegue tornar o conteúdo dentro dele clicável, podendo redirecionar o visitante a um outro link ou uma outra página do próprio site, como é o caso do HTML nas páginas de internet -->
-        <img alt="stats Lana" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=LanaIhara&show_icons=true&count_private=true&locale=pt-BR&theme=maroongold"/> <!-- STATUS DO GITHUB --> <!-- img é o código HTML para inserir imagem; alt="" significa que, caso não apareça a imagem, por algum erro ou qualquer motivo, mostrará o texto indicado no alt="" -->
+        <img alt="stats Lana" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=nanoihara&show_icons=true&count_private=true&locale=pt-BR&theme=maroongold"/> <!-- STATUS DO GITHUB --> <!-- img é o código HTML para inserir imagem; alt="" significa que, caso não apareça a imagem, por algum erro ou qualquer motivo, mostrará o texto indicado no alt="" -->
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light">
-        <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light"/> <!-- LINGUAGENS MAIS USADAS PELO USUÁRIO -->
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nanoihara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light">
+        <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanoihara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light"/> <!-- LINGUAGENS MAIS USADAS PELO USUÁRIO -->
     </a>
 </div>
 
 <div align="center"> <!-- align="center" direciona o container para alinhar seus elementos ao centro -->
     <!-- COBRINHA DO COMMIT -->
-    <img alt="Cobrinha do commit" src="https://github.com/LanaIhara/LanaIhara/blob/output/github-contribution-grid-snake.svg"/> 
+    <img alt="Cobrinha do commit" src="https://github.com/nanoihara/nanoihara/blob/output/github-contribution-grid-snake.svg"/> 
 </div>
 
 <br>
@@ -35,7 +35,7 @@
 ## ☎️ Contatos <!-- ## é "título 2", ou <h2></h2> em HTML -->
 
 <div style="display: inline-block"> <!-- style="display: inline-block" faz com que a <div></div> se estilize (pois é usado um elemento de CSS), inserindo uma linha para dividir o conteúdo acima do <div></div> do que está dentro e depois deste <div></div> -->
-    <a href="https://github.com/LanaIhara"> <!-- ÍCONE GITHUB -->
+    <a href="https://github.com/nanoihara"> <!-- ÍCONE GITHUB -->
         <img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a> 
     <a href="mailto:akemiihara1234@gmail.com"> <!-- ÍCONE GMAIL-->
@@ -76,11 +76,11 @@
 ## Principais repositórios
 <!-- Card de repositório decorada -->
 <div>
-    <a href="https://github.com/LanaIhara/PRW"> <!-- PRW -->
-        <img align="center" alt="repositório PRW" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=LanaIhara&repo=PRW&theme=yeblu"/>
+    <a href="https://github.com/nanoihara/PRW"> <!-- PRW -->
+        <img align="center" alt="repositório PRW" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=nanoihara&repo=PRW&theme=yeblu"/>
     </a>
-    <a href="https://github.com/LanaIhara/projeto-1ano"> <!-- Projeto do 1º ano -->
-        <img align="center" alt="repositório projeto-1ano" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=LanaIhara&repo=projeto-1ano&theme=yeblu"/>
+    <a href="https://github.com/nanoihara/projeto-1ano"> <!-- Projeto do 1º ano -->
+        <img align="center" alt="repositório projeto-1ano" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=nanoihara&repo=projeto-1ano&theme=yeblu"/>
     </a>
 </div> <br>
 
