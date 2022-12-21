@@ -4,13 +4,10 @@
 <!-- Contêm códigos em Markdown (por isto, o arquivo é .md) e HTML -->
 
 <!-- INTRODUÇÃO -->
-### Oe, Nano falando (＾∇＾)ノ <!-- ### significa "título 3", ou em HTML, o famoso <h3></h3> -->
+### Oe, Lana falando (＾∇＾)ノ <!-- ### significa "título 3", ou em HTML, o famoso <h3></h3> -->
 <!-- Lista desordenada em Markdown -->
 - 💼 Tenho o desejo de trabalhar na área de programação!
 - 📚 Atualmente estou aprendendo PHP
-- ✨ Pronomes: Ele/dele & ela/dela
-- ⚡ Mais sobre mim: Sou não binário e demirromântico
-- 💬 Pode contar comigo para o que precisar!
 
 <br> <!-- quebra de linha -->
 
